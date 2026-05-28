@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/VIEW/View.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>2202</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/VIEW/View.java</file>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/MODEL/Medicamento.java</file>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/VIEW/HistorialDialog.java</file>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/DATABASE/EscribirCita.java</file>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/CONTROLLER/ConsultaMedicaController.java</file>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/MODEL/ConsultaMedica.java</file>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/DATABASE/EscribirExamen.java</file>
+            <file>file:/C:/Users/jotue/Documents/Universidad/POO/ProyectoPoo/GestionClinicaVeterinaria/GestionClinicaVeterinaria/src/CONTROLLER/ExamenMedicoController.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,7 @@
+Datos de Vendedor
+Nombre: Rolando Elizalde
+Edad: 30
+Salario mínimo: 400,00
+Número de autos: 4
+Pago mensual: 1000,00
+
